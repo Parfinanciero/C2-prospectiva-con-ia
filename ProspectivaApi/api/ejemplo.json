@@ -1,0 +1,30 @@
+{
+    "gastos": {
+      "total": 1800,
+      "categorias": [
+        {"nombre": "Alimentos", "total": 800, "porcentaje": 44.4},
+        {"nombre": "Transporte", "total": 400, "porcentaje": 22.2},
+        {"nombre": "Entretenimiento", "total": 200, "porcentaje": 11.1},
+        {"nombre": "Vivienda", "total": 400, "porcentaje": 22.2}
+      ],
+      "por_fecha": [
+        {"fecha": "2025-01-01", "total": 200},
+        {"fecha": "2025-01-02", "total": 100},
+        {"fecha": "2025-01-03", "total": 150},
+        {"fecha": "2025-01-04", "total": 250},
+        {"fecha": "2025-01-05", "total": 100}
+      ]
+    },
+    "meta": {
+      "titulo": "Compra de auto nuevo",
+      "monto_meta": 10000,
+      "monto_actual": 3500,
+      "progreso_porcentaje": 35.0,
+      "diferencia_monto": 6500,
+      "proyeccion_tiempo": {
+        "dias_restantes_estimados": 150,
+        "progreso_tiempo": 50.0
+      }
+    }
+  }
+  

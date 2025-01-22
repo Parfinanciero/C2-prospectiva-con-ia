@@ -1,0 +1,25 @@
+{
+    "gastos": {
+      "total": 1500,
+      "categorias": [
+        {"nombre": "Alimentos", "total": 500, "porcentaje": 33.3},
+        {"nombre": "Transporte", "total": 300, "porcentaje": 20.0}
+      ],
+      "por_fecha": [
+        {"fecha": "2025-01-01", "total": 100},
+        {"fecha": "2025-01-02", "total": 50}
+      ]
+    },
+    "meta": {
+      "titulo": "Vacaciones",
+      "monto_meta": 2000,
+      "monto_actual": 1200,
+      "progreso_porcentaje": 60.0,
+      "diferencia_monto": 800,
+      "proyeccion_tiempo": {
+        "dias_restantes_estimados": 20,
+        "progreso_tiempo": 50.0
+      }
+    }
+  }
+  
